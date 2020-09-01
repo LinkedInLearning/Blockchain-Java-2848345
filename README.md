@@ -1,5 +1,5 @@
-# COURSENAME
-This is the repository for the LinkedIn Learning course `[COURSENAME]`. The full course is available from [LinkedIn Learning](https://linkedin.com/learning/).
+# Blockchain für Java-Entwickler
+Dies ist das Repository für den Kurs `Blockchain für Java-Entwickler`. Der gesamte Kurs ist auf [LinkedIn Learning](https://linkedin.com/learning/) erhältlich.
 
 [![COURSENAME](COURSEIMAGE)](LICOURSEURL)
 
