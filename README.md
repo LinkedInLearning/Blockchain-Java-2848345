@@ -14,6 +14,9 @@ Some branches will have a beginning and an end state. These are marked with the 
 
 ## Installing
 1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
+	- JDK 14
+	- Maven 3.6.3
 2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
+3. Import the Maven project in your favourite Java IDE.
+4. Install and run a local Ganache Ethereum network.
+5. Execute the examples and play around with the code.
