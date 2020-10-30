@@ -1,22 +1,24 @@
-# Blockchain für Java-Entwickler
-Dies ist das Repository für den Kurs `Blockchain für Java-Entwickler`. Der gesamte Kurs ist auf [LinkedIn Learning](https://linkedin.com/learning/) erhältlich.
+# Blockchain: Grundlagen für Java-Entwickler
+Dies ist das Repository für den Kurs `Blockchain: Grundlagen für Java-Entwickler`. Der gesamte Kurs ist auf [LinkedIn Learning](https://linkedin.com/learning/) erhältlich.
 
-[![COURSENAME](COURSEIMAGE)](LICOURSEURL)
-
-[COURSEDESCRIPTION]
-
-## Instructions
-This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
+## Beschreibung
+Dieser LinkedIn Learning-Kurs bietet einen spannenden Einblick in die Welt der Ethereum-Blockchains und die Programmierung von Smart Contracts. Dabei entdecken Sie, dass sich die Interaktion mit einer Blockchain aus einem Java-Programm heraus nicht grundlegend von der Interaktion mit einem Web-Service unterscheidet. Sie erkennen auch die Chancen und Limitierungen von Smart Contracts in der Blockchain als öffentlicher und ausführbarer Code. Dabei liegt der Augenmerk auf der Fehlannahme, dass Smart Contracts mit Verträgen im rechtlichen Sinne gleichzusetzen sind. Nach einer kurzen Einführung in die Geschichte und die Konzepte von Blockchain und Ethereum sowie die zugrundeliegenden Datenstrukturen erstellen Sie eine Ethereum-Entwicklungsumgebung mit Remix und sehen dann, wie Ethereum-Transaktionen mit Java und web3j lesen und schreiben können.
 
 ## Branches
-The branches are structured to correspond to the videos in the course. The naming convention is `CHAPTER#_MOVIE#`. As an example, the branch named `02_03` corresponds to the second chapter and the third video in that chapter. 
-Some branches will have a beginning and an end state. These are marked with the letters `b` for "beginning" and `e` for "end". The `b` branch contains the code as it is at the beginning of the movie. The `e` branch contains the code as it is at the end of the movie. The `main` branch holds the final state of the code when in the course.
+Alle Inhalte sind direkt im `master`-Branch abgelegt.
 
-## Installing
-1. To use these exercise files, you must have the following installed:
+## Installation und Verwendung
+1. Um diese Übungsdateien verwenden zu können, müssen Sie diefolgende Software installiert haben:
 	- JDK 14
 	- Maven 3.6.3
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. Import the Maven project in your favourite Java IDE.
-4. Install and run a local Ganache Ethereum network.
-5. Execute the examples and play around with the code.
+	- [Ganache](https://www.trufflesuite.com/ganache)
+2. Klonen Sie dieses Repository auf Ihren lokalen Rechner mit dem Terminal (Mac), CMD (Windows) oder einem GUI-Tool wie SourceTree.
+3. Importieren Sie das Maven Projekt in Ihre bevorzugte Java IDE.
+4. Führen Sie die Beispiele aus und experimentieren Sie mit dem Code.
+
+## Über den Autor - Kevin Wittek
+Sie finden [weitere Kurse von Kevin Wittek](https://www.linkedin.com/learning/instructors/kevin-wittek) auf LinkedIn Learning. Folgen Sie ihm auf [LinkedIn](https://www.linkedin.com/in/kevin-wittek?trk=lil_instructor) und [Twitter](https://twitter.com/kiview). 
+
+TODO: Richtiger Lynda Link?
+![Profilbild Kevin Wittek](https://cdn.lynda.com/authors/4711_200x200_thumb.jpg)
+
