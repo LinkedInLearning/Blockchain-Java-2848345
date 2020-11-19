@@ -25,4 +25,4 @@ Sie finden [weitere Kurse von Kevin Wittek](https://www.linkedin.com/learning/in
 
 _Head of Blockchain Research_
 
-Check out some of my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/kevin-wittek).
+[LinkedIn Learning](https://www.linkedin.com/learning/instructors/kevin-wittek).
