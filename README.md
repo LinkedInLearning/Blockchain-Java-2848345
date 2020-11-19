@@ -19,6 +19,10 @@ Alle Inhalte sind direkt im `master`-Branch abgelegt.
 ## Über den Autor - Kevin Wittek
 Sie finden [weitere Kurse von Kevin Wittek](https://www.linkedin.com/learning/instructors/kevin-wittek) auf LinkedIn Learning. Folgen Sie ihm auf [LinkedIn](https://www.linkedin.com/in/kevin-wittek?trk=lil_instructor) und [Twitter](https://twitter.com/kiview). 
 
-TODO: Richtiger Lynda Link?
-![Profilbild Kevin Wittek](https://cdn.lynda.com/authors/4711_200x200_thumb.jpg)
+### Instructor
 
+**Kevin Wittek**
+
+_Head of Blockchain Research_
+
+Check out some of my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/kevin-wittek).
