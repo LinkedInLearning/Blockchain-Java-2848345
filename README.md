@@ -1,6 +1,8 @@
 # Blockchain: Grundlagen für Java-Entwickler
 Dies ist das Repository für den Kurs `Blockchain: Grundlagen für Java-Entwickler`. Der gesamte Kurs ist auf [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-grundlagen-fur-java-entwickler) erhältlich.
 
+![tn-url]
+
 ## Beschreibung
 Dieser LinkedIn Learning-Kurs bietet einen spannenden Einblick in die Welt der Ethereum-Blockchains und in die Programmierung von Smart Contracts. Dabei entdecken Sie, dass sich die Interaktion mit einer Blockchain aus einem Java-Programm heraus nicht grundlegend von der Interaktion mit einem Web-Service unterscheidet. Außerdem sehen Sie unter anderem an, dass Smart Contracts nicht mit Verträgen im rechtlichen Sinne gleichzusetzen sind, sodern sich vielmehr mit objektorientierter Programmierung in Java vergleichen lassen. Nach einer kurzen Einführung in die Geschichte und die Konzepte von Blockchain und Ethereum sowie die zugrundeliegenden Datenstrukturen erstellen Sie eine Ethereum-Entwicklungsumgebung mit Remix und sehen dann, wie Sie Ethereum-Transaktionen und Smart Contract Interaktionen mit Java und web3j lesen und schreiben können.
 
@@ -26,3 +28,5 @@ Sie finden [weitere Kurse von Kevin Wittek](https://www.linkedin.com/learning/in
 _Head of Blockchain Research_
 
 [LinkedIn Learning](https://www.linkedin.com/learning/instructors/kevin-wittek).
+
+[tn-url]: https://media-exp1.licdn.com/dms/image/C4D0DAQGbxOEllMO03w/learning-public-crop_675_1200/0/1605003540750?e=1646964000&v=beta&t=7MLX73BhH1gk_q3ILaa9APHW9kMILTelysxR9lzBb68
