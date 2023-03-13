@@ -29,4 +29,4 @@ _Head of Blockchain Research_
 
 [LinkedIn Learning](https://www.linkedin.com/learning/instructors/kevin-wittek).
 
-[tn-url]: https://media-exp1.licdn.com/dms/image/C4D0DAQGbxOEllMO03w/learning-public-crop_675_1200/0/1605003540750?e=1646964000&v=beta&t=7MLX73BhH1gk_q3ILaa9APHW9kMILTelysxR9lzBb68
+[tn-url]: https://cdn.lynda.com/course/2848345/2848345-1652356575438-16x9.jpg
